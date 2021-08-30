@@ -1,11 +1,11 @@
-programa{
+programa{
 /*exercicio 03 
  * Abner
  * 27/08/2021
  */
 	inclua biblioteca Matematica -->mat
 	
-	funcao inicio(){
+	funcao inicio(){
 
 		inteiro n1[4][6]
 		inteiro n2[4][6]
@@ -60,7 +60,6 @@ programa{
 			
 		}
 
-
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -68,7 +67,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1041; 
+ * @POSICAO-CURSOR = 1251; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {n1, 10, 10, 2}-{n2, 11, 10, 2}-{m1, 13, 10, 2}-{m2, 14, 10, 2};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
